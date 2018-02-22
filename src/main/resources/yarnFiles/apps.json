@@ -1,0 +1,2844 @@
+{
+  "apps": {
+    "app": [
+      {
+        "id": "application_1511171902313_352716",
+        "user": "newland",
+        "name": "file split",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352716/jobhistory/job/job_1511171902313_352716
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516748758248",
+        "finishedTime": "1516748886941",
+        "elapsedTime": "128693",
+        "amContainerLogs": "
+http://hn-bd-hadoopS11:8042/node/containerlogs/container_e43_1511171902313_352716_01_000007/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS11:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "671980",
+        "vcoreSeconds": "232",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349714",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TM_SIGNAL_USER_MOVE_DAY_20180122_sql10
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_349714/jobhistory/job/job_1511171902313_349714
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516715637866",
+        "finishedTime": "1516715795439",
+        "elapsedTime": "157573",
+        "amContainerLogs": "
+http://hn-bd-hadoopS66:8042/node/containerlogs/container_e43_1511171902313_349714_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS66:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "45666598",
+        "vcoreSeconds": "11050",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_343727",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_CNTY_COM_CUSTSRC_DAY_20180121_sql16
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_343727/jobhistory/job/job_1511171902313_343727
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516586179424",
+        "finishedTime": "1516586215601",
+        "elapsedTime": "36177",
+        "amContainerLogs": "
+http://hn-bd-hadoopS89:8042/node/containerlogs/container_e43_1511171902313_343727_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS89:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "173922",
+        "vcoreSeconds": "62",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352076",
+        "user": "newland",
+        "name": "FT_MID_XDR_COLLECT_2100_2018012403",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352076/jobhistory/job/job_1511171902313_352076
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516739307633",
+        "finishedTime": "1516739824081",
+        "elapsedTime": "516448",
+        "amContainerLogs": "
+http://hn-bd-hadoopS43:8042/node/containerlogs/container_e43_1511171902313_352076_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS43:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "189106149",
+        "vcoreSeconds": "27462",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351489",
+        "user": "newland",
+        "name": "100273272638@2018012402000000exec-sql",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351489/jobhistory/job/job_1511171902313_351489
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516734421336",
+        "finishedTime": "1516734479514",
+        "elapsedTime": "58178",
+        "amContainerLogs": "
+http://hn-bd-hadoopS37:8042/node/containerlogs/container_e43_1511171902313_351489_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS37:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "315043",
+        "vcoreSeconds": "114",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_348733",
+        "user": "newland",
+        "name": "streamHadoopTransform101545657524@2018012315000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_348733/jobhistory/job/job_1511171902313_348733
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516699578206",
+        "finishedTime": "1516699606526",
+        "elapsedTime": "28320",
+        "amContainerLogs": "
+http://hn-bd-hadoopS36:8042/node/containerlogs/container_e43_1511171902313_348733_01_000003/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS36:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "208066",
+        "vcoreSeconds": "53",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_343557",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_wide_user_day_20180121_sql7
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_343557/jobhistory/job/job_1511171902313_343557
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516583602144",
+        "finishedTime": "1516583685174",
+        "elapsedTime": "83030",
+        "amContainerLogs": "
+http://hn-bd-hadoopS65:8042/node/containerlogs/container_e43_1511171902313_343557_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS65:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "835050",
+        "vcoreSeconds": "196",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_343573",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_user_extend_day_20180121_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_343573/jobhistory/job/job_1511171902313_343573
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516583924562",
+        "finishedTime": "1516584081501",
+        "elapsedTime": "156939",
+        "amContainerLogs": "
+http://hn-bd-hadoopS83:8042/node/containerlogs/container_e43_1511171902313_343573_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS83:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "7070727",
+        "vcoreSeconds": "1684",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352857",
+        "user": "newland",
+        "name": "FT_MID_XDR_COLLECT_1103_2018012406",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352857/jobhistory/job/job_1511171902313_352857
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516751107804",
+        "finishedTime": "1516751631329",
+        "elapsedTime": "523525",
+        "amContainerLogs": "
+http://hn-bd-hadoopS41:8042/node/containerlogs/container_e43_1511171902313_352857_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS41:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "17005607",
+        "vcoreSeconds": "2751",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345681",
+        "user": "newland",
+        "name": "streamHadoopTransform102188443537@2018012214000001",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_345681/jobhistory/job/job_1511171902313_345681
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516632684159",
+        "finishedTime": "1516632978171",
+        "elapsedTime": "294012",
+        "amContainerLogs": "
+http://hn-bd-hadoopS79:8042/node/containerlogs/container_e43_1511171902313_345681_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS79:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "2803928",
+        "vcoreSeconds": "570",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345344",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql15
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_345344/jobhistory/job/job_1511171902313_345344
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516620826100",
+        "finishedTime": "1516620898599",
+        "elapsedTime": "72499",
+        "amContainerLogs": "
+http://hn-bd-hadoopS30:8042/node/containerlogs/container_e43_1511171902313_345344_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS30:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "579539",
+        "vcoreSeconds": "152",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344615",
+        "user": "newland",
+        "name": "streamHadoopTransform103095898153@2018012210000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_344615/jobhistory/job/job_1511171902313_344615
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516603161193",
+        "finishedTime": "1516603223653",
+        "elapsedTime": "62460",
+        "amContainerLogs": "
+http://hn-bd-hadoopS78:8042/node/containerlogs/container_e43_1511171902313_344615_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS78:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "381716",
+        "vcoreSeconds": "99",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347981",
+        "user": "newland",
+        "name": "ft_mid_user_stat_position_year_20171231_sql7",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_347981/jobhistory/job/job_1511171902313_347981
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516688836659",
+        "finishedTime": "1516689936129",
+        "elapsedTime": "1099470",
+        "amContainerLogs": "
+http://hn-bd-hadoopS76:8042/node/containerlogs/container_e43_1511171902313_347981_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS76:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "201756395",
+        "vcoreSeconds": "45923",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_348748",
+        "user": "newland",
+        "name": "ft_mid_vgop_video_day_20180101_sql7",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_348748/jobhistory/job/job_1511171902313_348748
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516699837826",
+        "finishedTime": "1516700838666",
+        "elapsedTime": "1000840",
+        "amContainerLogs": "
+http://hn-bd-hadoopS69:8042/node/containerlogs/container_e43_1511171902313_348748_02_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS69:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "4079139",
+        "vcoreSeconds": "1300",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344151",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_REG_CUST_REL_T_DAY_20180121_sql30
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_344151/jobhistory/job/job_1511171902313_344151
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516591200687",
+        "finishedTime": "1516591407933",
+        "elapsedTime": "207246",
+        "amContainerLogs": "
+http://hn-bd-hadoopS31:8042/node/containerlogs/container_e43_1511171902313_344151_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS31:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1167092",
+        "vcoreSeconds": "330",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347867",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwapp/tc_flux_user_gprs_use_daily_20180122_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_347867/jobhistory/job/job_1511171902313_347867
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516679846432",
+        "finishedTime": "1516680266620",
+        "elapsedTime": "420188",
+        "amContainerLogs": "
+http://hn-bd-hadoopS24:8042/node/containerlogs/container_e43_1511171902313_347867_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS24:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "2850299",
+        "vcoreSeconds": "783",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346680",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/ts_b_detailbill_20180122_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346680/jobhistory/job/job_1511171902313_346680
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516649357907",
+        "finishedTime": "1516649840142",
+        "elapsedTime": "482235",
+        "amContainerLogs": "
+http://hn-bd-hadoopS08:8042/node/containerlogs/container_e43_1511171902313_346680_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS08:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "20892524",
+        "vcoreSeconds": "3777",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344331",
+        "user": "newland",
+        "name": "streamHadoopTransform103794986472@2018012211000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_344331/jobhistory/job/job_1511171902313_344331
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516595255347",
+        "finishedTime": "1516595970648",
+        "elapsedTime": "715301",
+        "amContainerLogs": "
+http://hn-bd-hadoopS84:8042/node/containerlogs/container_e43_1511171902313_344331_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS84:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "81237826",
+        "vcoreSeconds": "10447",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346596",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180122_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346596/jobhistory/job/job_1511171902313_346596
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516648539049",
+        "finishedTime": "1516648661865",
+        "elapsedTime": "122816",
+        "amContainerLogs": "
+http://hn-bd-hadoopS26:8042/node/containerlogs/container_e43_1511171902313_346596_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS26:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "567949",
+        "vcoreSeconds": "201",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346362",
+        "user": "newland",
+        "name": "100317332960@2018012200000000db-to-db",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346362/jobhistory/job/job_1511171902313_346362
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516645346659",
+        "finishedTime": "1516645548806",
+        "elapsedTime": "202147",
+        "amContainerLogs": "
+http://hn-bd-hadoopS61:8042/node/containerlogs/container_e43_1511171902313_346362_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS61:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "37507748",
+        "vcoreSeconds": "5930",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352233",
+        "user": "newland",
+        "name": "streamHadoopTransform100880233458@2018012404000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352233/jobhistory/job/job_1511171902313_352233
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516741601467",
+        "finishedTime": "1516741983112",
+        "elapsedTime": "381645",
+        "amContainerLogs": "
+http://hn-bd-hadoopS75:8042/node/containerlogs/container_e43_1511171902313_352233_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS75:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "3542697",
+        "vcoreSeconds": "736",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349635",
+        "user": "newland",
+        "name": "ODS_LOAD_2103_2018012114",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_349635/jobhistory/job/job_1511171902313_349635
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516713572923",
+        "finishedTime": "1516713891202",
+        "elapsedTime": "318279",
+        "amContainerLogs": "
+http://hn-bd-hadoopS25:8042/node/containerlogs/container_e43_1511171902313_349635_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS25:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "200157165",
+        "vcoreSeconds": "48526",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_348100",
+        "user": "newland",
+        "name": "ODS_LOAD_1108_2018012300",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_348100/jobhistory/job/job_1511171902313_348100
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516690212539",
+        "finishedTime": "1516690391457",
+        "elapsedTime": "178918",
+        "amContainerLogs": "
+http://hn-bd-hadoopS71:8042/node/containerlogs/container_e43_1511171902313_348100_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS71:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "719545",
+        "vcoreSeconds": "272",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349424",
+        "user": "newland",
+        "name": "ft_mid_vgop_cartoon_day_20180101_sql11",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349424/jobhistory/job/job_1511171902313_349424
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516709283747",
+        "finishedTime": "1516709515652",
+        "elapsedTime": "231905",
+        "amContainerLogs": "
+http://hn-bd-hadoopS68:8042/node/containerlogs/container_e43_1511171902313_349424_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS68:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "21213726",
+        "vcoreSeconds": "3995",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346323",
+        "user": "newland",
+        "name": "ODS_LOAD_2100_2018012214",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346323/jobhistory/job/job_1511171902313_346323
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516644986037",
+        "finishedTime": "1516645302228",
+        "elapsedTime": "316191",
+        "amContainerLogs": "
+http://hn-bd-hadoopS46:8042/node/containerlogs/container_e43_1511171902313_346323_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS46:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "86684238",
+        "vcoreSeconds": "21099",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344944",
+        "user": "newland",
+        "name": "ft_mid_vgop_cartoon_day_20180101_sql5",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_344944/jobhistory/job/job_1511171902313_344944
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516608987508",
+        "finishedTime": "1516610985505",
+        "elapsedTime": "1997997",
+        "amContainerLogs": "
+http://hn-bd-hadoopS49:8042/node/containerlogs/container_e43_1511171902313_344944_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS49:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "25977156",
+        "vcoreSeconds": "5451",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_350156",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwapp/SJSK_LBS_FAC_REG_CUSTINSI_D_V2_20180122_sql10
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_350156/jobhistory/job/job_1511171902313_350156
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516721447177",
+        "finishedTime": "1516721531789",
+        "elapsedTime": "84612",
+        "amContainerLogs": "
+http://hn-bd-hadoopS45:8042/node/containerlogs/container_e43_1511171902313_350156_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS45:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1112438",
+        "vcoreSeconds": "278",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346701",
+        "user": "newland",
+        "name": "101940861337@2018012123000000exec-sql",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346701/jobhistory/job/job_1511171902313_346701
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516649828349",
+        "finishedTime": "1516650218243",
+        "elapsedTime": "389894",
+        "amContainerLogs": "
+http://hn-bd-hadoopS24:8042/node/containerlogs/container_e43_1511171902313_346701_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS24:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "183655132",
+        "vcoreSeconds": "27947",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346192",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180122_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346192/jobhistory/job/job_1511171902313_346192
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516644734392",
+        "finishedTime": "1516644760868",
+        "elapsedTime": "26476",
+        "amContainerLogs": "
+http://hn-bd-hadoopS85:8042/node/containerlogs/container_e43_1511171902313_346192_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS85:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "156656",
+        "vcoreSeconds": "54",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_353078",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_wide_user_day_20180123_sql5
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_353078/jobhistory/job/job_1511171902313_353078
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516756787982",
+        "finishedTime": "1516757392049",
+        "elapsedTime": "604067",
+        "amContainerLogs": "
+http://hn-bd-hadoopS58:8042/node/containerlogs/container_e43_1511171902313_353078_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS58:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "126718227",
+        "vcoreSeconds": "20251",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349939",
+        "user": "newland",
+        "name": "FT_MID_XDR_COLLECT_1108_2018012321",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349939/jobhistory/job/job_1511171902313_349939
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516718527265",
+        "finishedTime": "1516718632493",
+        "elapsedTime": "105228",
+        "amContainerLogs": "
+http://hn-bd-hadoopS23:8042/node/containerlogs/container_e43_1511171902313_349939_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS23:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "793751",
+        "vcoreSeconds": "217",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_350726",
+        "user": "newland",
+        "name": "hn_uri_reset103714032245@2018012400000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_350726/jobhistory/job/job_1511171902313_350726
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516727744949",
+        "finishedTime": "1516729315558",
+        "elapsedTime": "1570609",
+        "amContainerLogs": "
+http://hn-bd-hadoopS20:8042/node/containerlogs/container_e43_1511171902313_350726_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS20:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "275599538",
+        "vcoreSeconds": "34520",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345826",
+        "user": "newland",
+        "name": "ODS_LOAD_1100_2018012215",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_345826/jobhistory/job/job_1511171902313_345826
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516636026096",
+        "finishedTime": "1516636604546",
+        "elapsedTime": "578450",
+        "amContainerLogs": "
+http://hn-bd-hadoopS61:8042/node/containerlogs/container_e43_1511171902313_345826_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS61:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "29621381",
+        "vcoreSeconds": "7494",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347198",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/tm_wide_band_info_day_20180122_sql38
+",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_347198/jobhistory/job/job_1511171902313_347198
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516659256435",
+        "finishedTime": "1516659471163",
+        "elapsedTime": "214728",
+        "amContainerLogs": "
+http://hn-bd-hadoopS07:8042/node/containerlogs/container_e43_1511171902313_347198_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS07:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "61910863",
+        "vcoreSeconds": "11234",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351655",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/tf_b_trade_res_20180123_sql3
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351655/jobhistory/job/job_1511171902313_351655
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516735049039",
+        "finishedTime": "1516735189631",
+        "elapsedTime": "140592",
+        "amContainerLogs": "
+http://hn-bd-hadoopS28:8042/node/containerlogs/container_e43_1511171902313_351655_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS28:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "18476801",
+        "vcoreSeconds": "4522",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349856",
+        "user": "newland",
+        "name": "FT_MID_XDR_COLLECT_2103_2018012222",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349856/jobhistory/job/job_1511171902313_349856
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516717224660",
+        "finishedTime": "1516718562320",
+        "elapsedTime": "1337660",
+        "amContainerLogs": "
+http://hn-bd-hadoopS80:8042/node/containerlogs/container_e43_1511171902313_349856_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS80:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "667204229",
+        "vcoreSeconds": "87949",
+        "preemptedResourceMB": "81920",
+        "preemptedResourceVCores": "16",
+        "numNonAMContainerPreempted": "16",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352390",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql403
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352390/jobhistory/job/job_1511171902313_352390
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516742744511",
+        "finishedTime": "1516742849444",
+        "elapsedTime": "104933",
+        "amContainerLogs": "
+http://hn-bd-hadoopS29:8042/node/containerlogs/container_e43_1511171902313_352390_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS29:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "798239",
+        "vcoreSeconds": "215",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352234",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_gn_appweb_detail_day_20180123_sql8
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352234/jobhistory/job/job_1511171902313_352234
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516741617800",
+        "finishedTime": "1516741665773",
+        "elapsedTime": "47973",
+        "amContainerLogs": "
+http://hn-bd-hadoopS33:8042/node/containerlogs/container_e43_1511171902313_352234_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS33:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "455555",
+        "vcoreSeconds": "136",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_350334",
+        "user": "newland",
+        "name": "102164017363@2018012304000000db-to-db",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_350334/jobhistory/job/job_1511171902313_350334
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516723681996",
+        "finishedTime": "1516723871311",
+        "elapsedTime": "189315",
+        "amContainerLogs": "
+http://hn-bd-hadoopS48:8042/node/containerlogs/container_e43_1511171902313_350334_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS48:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "19032340",
+        "vcoreSeconds": "3348",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351571",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180123_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351571/jobhistory/job/job_1511171902313_351571
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516734799088",
+        "finishedTime": "1516734848438",
+        "elapsedTime": "49350",
+        "amContainerLogs": "
+http://hn-bd-hadoopS26:8042/node/containerlogs/container_e43_1511171902313_351571_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS26:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "300533",
+        "vcoreSeconds": "113",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349948",
+        "user": "newland",
+        "name": "FT_MID_XDR_SEARCHWORD_D_LTE_2018012123",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349948/jobhistory/job/job_1511171902313_349948
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516718689040",
+        "finishedTime": "1516718804112",
+        "elapsedTime": "115072",
+        "amContainerLogs": "
+http://hn-bd-hadoopS52:8042/node/containerlogs/container_e43_1511171902313_349948_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS52:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "19237224",
+        "vcoreSeconds": "4697",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347040",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwapp/rpt_total_wind_band_unified_view_day_20180121_sql6
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_347040/jobhistory/job/job_1511171902313_347040
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516655301327",
+        "finishedTime": "1516655397260",
+        "elapsedTime": "95933",
+        "amContainerLogs": "
+http://hn-bd-hadoopS86:8042/node/containerlogs/container_e43_1511171902313_347040_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS86:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "5076177",
+        "vcoreSeconds": "1229",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344181",
+        "user": "newland",
+        "name": "ODS_LOAD_1107_2018012121",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_344181/jobhistory/job/job_1511171902313_344181
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516591673691",
+        "finishedTime": "1516591740343",
+        "elapsedTime": "66652",
+        "amContainerLogs": "
+http://hn-bd-hadoopS24:8042/node/containerlogs/container_e43_1511171902313_344181_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS24:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "287102",
+        "vcoreSeconds": "112",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347386",
+        "user": "newland",
+        "name": "100902815304@2018012222000000exec-sql",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_347386/jobhistory/job/job_1511171902313_347386
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516669285790",
+        "finishedTime": "1516669366796",
+        "elapsedTime": "81006",
+        "amContainerLogs": "
+http://hn-bd-hadoopS84:8042/node/containerlogs/container_e43_1511171902313_347386_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS84:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1468771",
+        "vcoreSeconds": "396",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345271",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_move_cdr_hour_2018012213_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_345271/jobhistory/job/job_1511171902313_345271
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516616529068",
+        "finishedTime": "1516618205007",
+        "elapsedTime": "1675939",
+        "amContainerLogs": "
+http://hn-bd-hadoopS89:8042/node/containerlogs/container_e43_1511171902313_345271_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS89:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "309144058",
+        "vcoreSeconds": "76055",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_353255",
+        "user": "newland",
+        "name": "FT_MID_XDR_COLLECT_1102_2018012315",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_353255/jobhistory/job/job_1511171902313_353255
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516758639987",
+        "finishedTime": "1516758721090",
+        "elapsedTime": "81103",
+        "amContainerLogs": "
+http://hn-bd-hadoopS55:8042/node/containerlogs/container_e43_1511171902313_353255_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS55:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "527994",
+        "vcoreSeconds": "148",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349382",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql135
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349382/jobhistory/job/job_1511171902313_349382
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516708925263",
+        "finishedTime": "1516709057540",
+        "elapsedTime": "132277",
+        "amContainerLogs": "
+http://hn-bd-hadoopS80:8042/node/containerlogs/container_e43_1511171902313_349382_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS80:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1138320",
+        "vcoreSeconds": "265",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351470",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/tm_ring_day_20180123_sql4
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351470/jobhistory/job/job_1511171902313_351470
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516734354335",
+        "finishedTime": "1516734442830",
+        "elapsedTime": "88495",
+        "amContainerLogs": "
+http://hn-bd-hadoopS40:8042/node/containerlogs/container_e43_1511171902313_351470_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS40:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "457749",
+        "vcoreSeconds": "158",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347838",
+        "user": "newland",
+        "name": "
+select * from dwmid.ft_mid_move_cdr_hou...10(Stage-1)
+",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_347838/jobhistory/job/job_1511171902313_347838
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516678188095",
+        "finishedTime": "1516678732310",
+        "elapsedTime": "544215",
+        "amContainerLogs": "
+http://hn-bd-hadoopS24:8042/node/containerlogs/container_e43_1511171902313_347838_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS24:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "77459042",
+        "vcoreSeconds": "18832",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345059",
+        "user": "newland",
+        "name": "streamHadoopTransform101708030181@2018012212300000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_345059/jobhistory/job/job_1511171902313_345059
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516611073818",
+        "finishedTime": "1516611115446",
+        "elapsedTime": "41628",
+        "amContainerLogs": "
+http://hn-bd-hadoopS30:8042/node/containerlogs/container_e43_1511171902313_345059_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS30:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "420056",
+        "vcoreSeconds": "105",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_353340",
+        "user": "newland",
+        "name": "streamHadoopTransform103095898153@2018012408000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_353340/jobhistory/job/job_1511171902313_353340
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516759590424",
+        "finishedTime": "1516759638824",
+        "elapsedTime": "48400",
+        "amContainerLogs": "
+http://hn-bd-hadoopS21:8042/node/containerlogs/container_e43_1511171902313_353340_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS21:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "479395",
+        "vcoreSeconds": "118",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349235",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_REG_CUST_REL_T_DAY_20180121_sql121
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349235/jobhistory/job/job_1511171902313_349235
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516706988391",
+        "finishedTime": "1516707087232",
+        "elapsedTime": "98841",
+        "amContainerLogs": "
+http://hn-bd-hadoopS43:8042/node/containerlogs/container_e43_1511171902313_349235_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS43:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "816542",
+        "vcoreSeconds": "210",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_343999",
+        "user": "newland",
+        "name": "
+SELECT aa.apply_id,ab....sum_date='20180120'(Stage-3)
+",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_343999/jobhistory/job/job_1511171902313_343999
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516588885292",
+        "finishedTime": "1516588992255",
+        "elapsedTime": "106963",
+        "amContainerLogs": "
+http://hn-bd-hadoopS90:8042/node/containerlogs/container_e43_1511171902313_343999_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS90:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "6933646",
+        "vcoreSeconds": "1730",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351279",
+        "user": "newland",
+        "name": "
+select count(*)-count...IFC.TI_CUS_TI_F_USER(Stage-1)
+",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351279/jobhistory/job/job_1511171902313_351279
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516731860046",
+        "finishedTime": "1516732082536",
+        "elapsedTime": "222490",
+        "amContainerLogs": "
+http://hn-bd-hadoopS83:8042/node/containerlogs/container_e43_1511171902313_351279_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS83:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "3884592",
+        "vcoreSeconds": "910",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344296",
+        "user": "newland",
+        "name": "ODS_LOAD_2106_2018012211",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_344296/jobhistory/job/job_1511171902313_344296
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516594689543",
+        "finishedTime": "1516594775116",
+        "elapsedTime": "85573",
+        "amContainerLogs": "
+http://hn-bd-hadoopS54:8042/node/containerlogs/container_e43_1511171902313_344296_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS54:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "536811",
+        "vcoreSeconds": "184",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351976",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_flux_detail_day_20180123_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351976/jobhistory/job/job_1511171902313_351976
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516738199217",
+        "finishedTime": "1516739255120",
+        "elapsedTime": "1055903",
+        "amContainerLogs": "
+http://hn-bd-hadoopS10:8042/node/containerlogs/container_e43_1511171902313_351976_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS10:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "687847949",
+        "vcoreSeconds": "95447",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349160",
+        "user": "newland",
+        "name": "ft_mid_vgop_music_day_20180101_sql13",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349160/jobhistory/job/job_1511171902313_349160
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516706230441",
+        "finishedTime": "1516706328201",
+        "elapsedTime": "97760",
+        "amContainerLogs": "
+http://hn-bd-hadoopS31:8042/node/containerlogs/container_e43_1511171902313_349160_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS31:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "435999",
+        "vcoreSeconds": "160",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_353427",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180123_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_353427/jobhistory/job/job_1511171902313_353427
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516760345375",
+        "finishedTime": "1516760415637",
+        "elapsedTime": "70262",
+        "amContainerLogs": "
+http://hn-bd-hadoopS26:8042/node/containerlogs/container_e43_1511171902313_353427_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS26:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "334487",
+        "vcoreSeconds": "127",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352862",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_family_user_day_20180123_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352862/jobhistory/job/job_1511171902313_352862
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516751261527",
+        "finishedTime": "1516752651825",
+        "elapsedTime": "1390298",
+        "amContainerLogs": "
+http://hn-bd-hadoopS15:8042/node/containerlogs/container_e43_1511171902313_352862_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS15:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "106550035",
+        "vcoreSeconds": "16172",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349019",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_move_cdr_hour_2018012310_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349019/jobhistory/job/job_1511171902313_349019
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516704605056",
+        "finishedTime": "1516704748554",
+        "elapsedTime": "143498",
+        "amContainerLogs": "
+http://hn-bd-hadoopS01:8042/node/containerlogs/container_e43_1511171902313_349019_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS01:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "111451001",
+        "vcoreSeconds": "27008",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346190",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180122_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346190/jobhistory/job/job_1511171902313_346190
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516644733682",
+        "finishedTime": "1516644782748",
+        "elapsedTime": "49066",
+        "amContainerLogs": "
+http://hn-bd-hadoopS21:8042/node/containerlogs/container_e43_1511171902313_346190_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS21:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "184827",
+        "vcoreSeconds": "73",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352255",
+        "user": "newland",
+        "name": "ODS_LOAD_2105_2018012404",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352255/jobhistory/job/job_1511171902313_352255
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516741736693",
+        "finishedTime": "1516741787649",
+        "elapsedTime": "50956",
+        "amContainerLogs": "
+http://hn-bd-hadoopS63:8042/node/containerlogs/container_e43_1511171902313_352255_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS63:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "200148",
+        "vcoreSeconds": "79",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345266",
+        "user": "newland",
+        "name": "100273272638@2018012214000000exec-sql",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_345266/jobhistory/job/job_1511171902313_345266
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516616370039",
+        "finishedTime": "1516616679914",
+        "elapsedTime": "309875",
+        "amContainerLogs": "
+http://hn-bd-hadoopS80:8042/node/containerlogs/container_e43_1511171902313_345266_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS80:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "2182632",
+        "vcoreSeconds": "759",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_348480",
+        "user": "newland",
+        "name": "streamHadoopTransform102966446953@2018012308000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_348480/jobhistory/job/job_1511171902313_348480
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516697062288",
+        "finishedTime": "1516697155800",
+        "elapsedTime": "93512",
+        "amContainerLogs": "
+http://hn-bd-hadoopS82:8042/node/containerlogs/container_e43_1511171902313_348480_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS82:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "830295",
+        "vcoreSeconds": "176",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346017",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwapp/SJSK_LBS_FAC_REG_CUSTINSI_D_V2_gw_20180121_sql13
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346017/jobhistory/job/job_1511171902313_346017
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516638334966",
+        "finishedTime": "1516638408146",
+        "elapsedTime": "73180",
+        "amContainerLogs": "
+http://hn-bd-hadoopS25:8042/node/containerlogs/container_e43_1511171902313_346017_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS25:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "608739",
+        "vcoreSeconds": "168",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345738",
+        "user": "bi",
+        "name": "USE nltobi(Stage-1)",
+        "queue": "root.bdoc.renter_1.dev_16",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_345738/jobhistory/job/job_1511171902313_345738
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516634861533",
+        "finishedTime": "1516635638172",
+        "elapsedTime": "776639",
+        "amContainerLogs": "
+http://hn-bd-hadoopS34:8042/node/containerlogs/container_e43_1511171902313_345738_01_000001/bi
+",
+        "amHostHttpAddress": "hn-bd-hadoopS34:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "2919380604",
+        "vcoreSeconds": "362596",
+        "preemptedResourceMB": "909312",
+        "preemptedResourceVCores": "113",
+        "numNonAMContainerPreempted": "113",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344824",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_lte_develop_day_20180121_sql11
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_344824/jobhistory/job/job_1511171902313_344824
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516606459169",
+        "finishedTime": "1516606531323",
+        "elapsedTime": "72154",
+        "amContainerLogs": "
+http://hn-bd-hadoopS74:8042/node/containerlogs/container_e43_1511171902313_344824_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS74:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1707067",
+        "vcoreSeconds": "461",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346653",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180122_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346653/jobhistory/job/job_1511171902313_346653
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516649014886",
+        "finishedTime": "1516649306971",
+        "elapsedTime": "292085",
+        "amContainerLogs": "
+http://hn-bd-hadoopS19:8042/node/containerlogs/container_e43_1511171902313_346653_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS19:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "5794948",
+        "vcoreSeconds": "1558",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344026",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql19
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_344026/jobhistory/job/job_1511171902313_344026
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516589152540",
+        "finishedTime": "1516589290014",
+        "elapsedTime": "137474",
+        "amContainerLogs": "
+http://hn-bd-hadoopS76:8042/node/containerlogs/container_e43_1511171902313_344026_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS76:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "748991",
+        "vcoreSeconds": "219",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345528",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql57
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_345528/jobhistory/job/job_1511171902313_345528
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516626167973",
+        "finishedTime": "1516626428888",
+        "elapsedTime": "260915",
+        "amContainerLogs": "
+http://hn-bd-hadoopS11:8042/node/containerlogs/container_e43_1511171902313_345528_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS11:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1850075",
+        "vcoreSeconds": "528",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_346312",
+        "user": "bi",
+        "name": "USE nltobi(Stage-1)",
+        "queue": "root.bdoc.renter_1.dev_16",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_346312/jobhistory/job/job_1511171902313_346312
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516644958051",
+        "finishedTime": "1516645290535",
+        "elapsedTime": "332484",
+        "amContainerLogs": "
+http://hn-bd-hadoopS15:8042/node/containerlogs/container_e43_1511171902313_346312_01_000001/bi
+",
+        "amHostHttpAddress": "hn-bd-hadoopS15:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "26820082",
+        "vcoreSeconds": "4749",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_348803",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql82
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_348803/jobhistory/job/job_1511171902313_348803
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516701125571",
+        "finishedTime": "1516701681380",
+        "elapsedTime": "555809",
+        "amContainerLogs": "
+http://hn-bd-hadoopS61:8042/node/containerlogs/container_e43_1511171902313_348803_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS61:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "2848363",
+        "vcoreSeconds": "1127",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_350585",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwapp/SJSK_LBS_FAC_REG_CUSTINSI_D_V2_20180122_sql14
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_350585/jobhistory/job/job_1511171902313_350585
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516726177402",
+        "finishedTime": "1516726248258",
+        "elapsedTime": "70856",
+        "amContainerLogs": "
+http://hn-bd-hadoopS10:8042/node/containerlogs/container_e43_1511171902313_350585_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS10:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "519670",
+        "vcoreSeconds": "125",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347630",
+        "user": "newland",
+        "name": "hn_uri_reset103714032245@2018012220000000",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_347630/jobhistory/job/job_1511171902313_347630
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516674645399",
+        "finishedTime": "1516676717062",
+        "elapsedTime": "2071663",
+        "amContainerLogs": "
+http://hn-bd-hadoopS25:8042/node/containerlogs/container_e43_1511171902313_347630_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS25:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "503519059",
+        "vcoreSeconds": "62609",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347098",
+        "user": "newland",
+        "name": "101549113806@2018012123000000db-to-db",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_347098/jobhistory/job/job_1511171902313_347098
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516656131143",
+        "finishedTime": "1516656228402",
+        "elapsedTime": "97259",
+        "amContainerLogs": "
+http://hn-bd-hadoopS48:8042/node/containerlogs/container_e43_1511171902313_347098_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS48:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "10099752",
+        "vcoreSeconds": "2470",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_352464",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/tm_wide_band_info_day_20180123_sql23
+",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_352464/jobhistory/job/job_1511171902313_352464
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516743483950",
+        "finishedTime": "1516743627040",
+        "elapsedTime": "143090",
+        "amContainerLogs": "
+http://hn-bd-hadoopS87:8042/node/containerlogs/container_e43_1511171902313_352464_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS87:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "3036775",
+        "vcoreSeconds": "629",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_348831",
+        "user": "newland",
+        "name": "ft_mid_vgop_game_day_20180101_sql7",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopM04:8088/proxy/application_1511171902313_348831/jobhistory/job/job_1511171902313_348831
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516701975005",
+        "finishedTime": "1516702130092",
+        "elapsedTime": "155087",
+        "amContainerLogs": "
+http://hn-bd-hadoopS71:8042/node/containerlogs/container_e43_1511171902313_348831_01_000002/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS71:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1292276",
+        "vcoreSeconds": "316",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_349392",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_REG_CUST_REL_T_DAY_20180121_sql142
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_349392/jobhistory/job/job_1511171902313_349392
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516709140928",
+        "finishedTime": "1516709258068",
+        "elapsedTime": "117140",
+        "amContainerLogs": "
+http://hn-bd-hadoopS11:8042/node/containerlogs/container_e43_1511171902313_349392_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS11:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "961095",
+        "vcoreSeconds": "220",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351834",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwapp/flag_user_app_log_20180122_sql26
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351834/jobhistory/job/job_1511171902313_351834
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516736668456",
+        "finishedTime": "1516736910000",
+        "elapsedTime": "241544",
+        "amContainerLogs": "
+http://hn-bd-hadoopS16:8042/node/containerlogs/container_e43_1511171902313_351834_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS16:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "2199879",
+        "vcoreSeconds": "519",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_345938",
+        "user": "bi",
+        "name": "USE nltobi(Stage-1)",
+        "queue": "root.bdoc.renter_1.dev_16",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_345938/jobhistory/job/job_1511171902313_345938
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516637584087",
+        "finishedTime": "1516639785363",
+        "elapsedTime": "2201276",
+        "amContainerLogs": "
+http://hn-bd-hadoopS72:8042/node/containerlogs/container_e43_1511171902313_345938_01_000001/bi
+",
+        "amHostHttpAddress": "hn-bd-hadoopS72:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "553572825",
+        "vcoreSeconds": "71573",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_343428",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwmid/ft_mid_gn_app_h_day_20180120_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_343428/jobhistory/job/job_1511171902313_343428
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516581384544",
+        "finishedTime": "1516594646924",
+        "elapsedTime": "13262380",
+        "amContainerLogs": "
+http://hn-bd-hadoopS35:8042/node/containerlogs/container_e43_1511171902313_343428_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS35:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "7442022756",
+        "vcoreSeconds": "1291508",
+        "preemptedResourceMB": "606208",
+        "preemptedResourceVCores": "74",
+        "numNonAMContainerPreempted": "74",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_347125",
+        "user": "newland",
+        "name": "103440674735@2018012123000000db-to-db",
+        "queue": "root.bdoc.renter_1.dev_4",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_347125/jobhistory/job/job_1511171902313_347125
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516656573041",
+        "finishedTime": "1516657030514",
+        "elapsedTime": "457473",
+        "amContainerLogs": "
+http://hn-bd-hadoopS89:8042/node/containerlogs/container_e43_1511171902313_347125_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS89:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "558334884",
+        "vcoreSeconds": "71246",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_351073",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/dwstr/dwifc_to_dwstr_common_20180123_sql2
+",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_351073/jobhistory/job/job_1511171902313_351073
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516731097348",
+        "finishedTime": "1516731161522",
+        "elapsedTime": "64174",
+        "amContainerLogs": "
+http://hn-bd-hadoopS88:8042/node/containerlogs/container_e43_1511171902313_351073_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS88:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "285083",
+        "vcoreSeconds": "106",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_343909",
+        "user": "newland",
+        "name": "FT_MID_XDR_COLLECT_1105_2018012209",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_343909/jobhistory/job/job_1511171902313_343909
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516588175417",
+        "finishedTime": "1516588343664",
+        "elapsedTime": "168247",
+        "amContainerLogs": "
+http://hn-bd-hadoopS90:8042/node/containerlogs/container_e43_1511171902313_343909_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS90:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1090892",
+        "vcoreSeconds": "301",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_353436",
+        "user": "newland",
+        "name": "ODS_LOAD_1104_2018012309",
+        "queue": "root.bdoc.renter_1.dev_13",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_353436/jobhistory/job/job_1511171902313_353436
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516760385328",
+        "finishedTime": "1516760616031",
+        "elapsedTime": "230703",
+        "amContainerLogs": "
+http://hn-bd-hadoopS62:8042/node/containerlogs/container_e43_1511171902313_353436_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS62:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "839040",
+        "vcoreSeconds": "333",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      },
+      {
+        "id": "application_1511171902313_344457",
+        "user": "newland",
+        "name": "
+/app/newland/script/bin/tourism/TUR_F_2_CITY_CUST_REL_T_DAY_20180121_sql60
+",
+        "queue": "root.bdoc.renter_1.dev_10",
+        "state": "FINISHED",
+        "finalStatus": "SUCCEEDED",
+        "progress": "100.0",
+        "trackingUI": "History",
+        "trackingUrl": "
+http://hn-bd-hadoopm04:8088/proxy/application_1511171902313_344457/jobhistory/job/job_1511171902313_344457
+",
+        "clusterId": "1511171902313",
+        "applicationType": "MAPREDUCE",
+        "priority": "0",
+        "startedTime": "1516598065783",
+        "finishedTime": "1516598334753",
+        "elapsedTime": "268970",
+        "amContainerLogs": "
+http://hn-bd-hadoopS18:8042/node/containerlogs/container_e43_1511171902313_344457_01_000001/newland
+",
+        "amHostHttpAddress": "hn-bd-hadoopS18:8042",
+        "allocatedMB": "-1",
+        "allocatedVCores": "-1",
+        "runningContainers": "-1",
+        "memorySeconds": "1714244",
+        "vcoreSeconds": "481",
+        "preemptedResourceMB": "0",
+        "preemptedResourceVCores": "0",
+        "numNonAMContainerPreempted": "0",
+        "numAMContainerPreempted": "0"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,height=device-height">
+<title>基础折线图</title>
+<style>
+::-webkit-scrollbar {
+	display: none;
+}
+
+html, body {
+	overflow: hidden;
+	height: 100%;
+}
+</style>
+<script>
+	/*Fixing iframe window.innerHeight 0 issue in Safari*/document.body.clientHeight;
+</script>
+<script
+	src="https://gw.alipayobjects.com/os/antv/assets/g2/3.0.4/g2.min.js"></script>
+<script
+	src="https://gw.alipayobjects.com/os/antv/assets/data-set/0.8.5/data-set.min.js"></script>
+
+</head>
+<body>
+	<!-- 创建图表容器 -->
+	<div id="c1"></div>
+	<script>
+		const data = ${jsonContext}; // G2 对数据源格式的要求，仅仅是 JSON 数组，数组的每个元素是一个标准 JSON 对象。
+		// Step 1: 创建 Chart 对象
+		const chart = new G2.Chart({
+			container : 'c1', // 指定图表容器 ID
+			forceFit : true,
+			height : window.innerHeight
+		});
+		chart.source(data);
+		chart.scale('containersPending', {
+			min : 0
+		});
+		chart.scale('callApiTime', {
+			range : [ 0, 1 ]
+		});
+		chart.tooltip({
+			crosshairs : {
+				type : 'line'
+			}
+		});
+		chart.line().position('callApiTime*containersPending');
+		/*     chart.point().position('callApiTime*containersPending').size(4).shape('circle').style({
+		 stroke: '#fff',
+		 lineWidth: 1
+		 }); */
+		chart.render();
+	</script>
+</body>
+</html>
