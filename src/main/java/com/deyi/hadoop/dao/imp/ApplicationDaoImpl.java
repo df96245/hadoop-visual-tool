@@ -1,16 +1,15 @@
-package com.deyi.hadoop.dao;
+package com.deyi.hadoop.dao.imp;
 
 import java.util.List;
 
 import org.hibernate.Criteria;
-import org.hibernate.Query;
 import org.hibernate.criterion.Restrictions;
 import org.springframework.stereotype.Repository;
-import org.springframework.transaction.annotation.Transactional;
 
 import com.deyi.hadoop.bean.Application;
+import com.deyi.hadoop.dao.ApplicationDao;
 @Repository
-public class ApplicationDaoImpl extends BaseDaoImpl implements ApplicationDao  {
+public class ApplicationDaoImpl extends BaseDaoImpl<Application> implements ApplicationDao {
 
 	@Override
 	public List<Application> getAllApps() {
@@ -22,10 +21,9 @@ public class ApplicationDaoImpl extends BaseDaoImpl implements ApplicationDao  {
 	@Override
 	//id=:appId  后面的appId是别名，与下面的query.setString 中的"appId" 要一致，后面的appId则是传入的参数的值。
 	public Application getAppById(String appId) {
-		String hql=" from Application where id=:appId"; 
-		Query query=getSession().createQuery(hql);
-		query.setString("appId", appId);
-		return (Application) query.uniqueResult();
+		String hql = "FROM Application where appId=:appId ";
+		Application application= (Application) getSession().createQuery(hql).setParameter("appId", appId).uniqueResult();
+		return application;
 	}
 
 	@Override

@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.deyi.hadoop.bean.Application;
 
-public interface ApplicationDao {
+public interface ApplicationDao extends BaseDao<Application> {
 	List<Application> getAllApps();
 	
 	List<Application> getAppsByQueue(String queueName);

@@ -1,6 +1,8 @@
 package com.deyi.hadoop.bean;
 
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.xml.bind.annotation.XmlAccessType;
@@ -13,7 +15,9 @@ import javax.xml.bind.annotation.XmlRootElement;
 @Table(name="application")
 public class Application {
 	@Id
-	private String id;
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private int id;
+	private String appId;
 	private String user;
 	private String name;
 	private String queue;
@@ -45,11 +49,17 @@ public class Application {
 	private String appType;
 	private String personInCharge;
 	
-	public String getId() {
+	public int getId() {
 		return id;
 	}
-	public void setId(String id) {
+	public void setId(int id) {
 		this.id = id;
+	}
+	public String getAppId() {
+		return appId;
+	}
+	public void setAppId(String appId) {
+		this.appId = appId;
 	}
 	public String getUser() {
 		return user;
@@ -230,7 +240,7 @@ public class Application {
 	}
 	@Override
 	public String toString() {
-		return "Application [id=" + id + ", user=" + user + ", name=" + name + ", queue=" + queue
+		return "Application [id=" + appId + ", user=" + user + ", name=" + name + ", queue=" + queue
 				+ ", state=" + state + ", finalStatus=" + finalStatus + ", progress=" + progress + ", trackingUI="
 				+ trackingUI + ", trackingUrl=" + trackingUrl + ", diagnostics=" + diagnostics + ", clusterId="
 				+ clusterId + ", applicationType=" + applicationType + ", applicationTags=" + applicationTags

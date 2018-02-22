@@ -4,6 +4,6 @@ import java.util.List;
 
 import com.deyi.hadoop.bean.ClusterMetrics;
 
-public interface ClusterMetricDao {
+public interface ClusterMetricDao extends BaseDao<ClusterMetrics> {
 	List<ClusterMetrics> listAllClusterMetrics();
 }

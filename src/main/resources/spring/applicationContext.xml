@@ -13,6 +13,8 @@
     <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Component"></context:exclude-filter>
   </context:component-scan> 
   
+  <context:annotation-config /> 
+  
   <import resource="classpath:spring/spring-hibernate.xml"/>
   
 </beans>

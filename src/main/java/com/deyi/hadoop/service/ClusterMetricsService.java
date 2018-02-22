@@ -1,15 +1,13 @@
 package com.deyi.hadoop.service;
 
-import java.util.Date;
 import java.util.List;
-import java.util.Random;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.deyi.hadoop.bean.ClusterMetrics;
-import com.deyi.hadoop.dao.ClusterMetricDao;
+import com.deyi.hadoop.dao.ClusterMetricDaoTest;
 import com.deyi.hadoop.util.DateUtil;
 import com.deyi.hadoop.util.RandomUtil;
 import com.deyi.hadoop.util.XMLUtil;
@@ -19,7 +17,7 @@ public class ClusterMetricsService implements LoadData{
 	public static CopyOnWriteArrayList<ClusterMetrics> appNumOfQueueList= new CopyOnWriteArrayList<ClusterMetrics>();
 	
 	@Autowired
-	private ClusterMetricDao dao;
+	private ClusterMetricDaoTest dao;
 
 	@Override
 	public void LoadData(String filePath) {
